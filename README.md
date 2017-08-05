@@ -23,7 +23,7 @@
  
 # Miscellaneous
   - ESlint rules are implemented .
-  -using [Edamam API](https://developer.edamam.com/)
+  - using [Edamam API](https://developer.edamam.com/)
   - Implement on Amazon AWS Cloud or on Github pages 
 
 

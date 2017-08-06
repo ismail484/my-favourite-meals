@@ -4,8 +4,27 @@
 # Description
   
   ### First open [My Favourite Meals](https://enjoy-your-meal.herokuapp.com/) to discover, how app works .
-  - Simply , It acts as a single page application using ReactJs .
+  - Simply , It acts as a single page application using ReactJs-Redux .
   - the web app allow the user to select and schedule his favourite meals , moreover get the shopping list related to his favourite meals
+
+#### How  components do interact with each other:
+- Directory structure of the redux web app is by  `capability`
+
+``` 
+   src/
+   - Components
+      - component1.js
+      - component2.js
+      - component3.js
+   - Actions
+      - action1.js
+      - action2.js
+   - Reducers
+      - reducer1.js
+   - Util
+   - Store
+```
+
 
 
 # Required Libraries and Dependencies

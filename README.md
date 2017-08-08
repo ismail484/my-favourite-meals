@@ -32,6 +32,9 @@
    - install redux library `npm install redux`
    - install react-redux library `npm install react-redux`
    - install react library `npm install react-icons`
+   - install react library `npm install react-loading`
+   - install react library `npm install react-modal`
+   - install middleware library `npm install --save redux-logger`
   
 
 # How to Run Project 
@@ -59,3 +62,6 @@
    7. [Using a function in `setState` instead of an object](https://medium.com/@shopsifter/using-a-function-in-setstate-instead-of-an-object-1f5cfd6e55d1)
    8. [Eslint Rules](http://eslint.org/)
    9. [Heroku Cloud](https://devcenter.heroku.com/)
+   10.[Middleware](http://redux.js.org/docs/advanced/Middleware.html)
+   11.[Creating Custom Middleware](https://medium.com/@jihdeh/creating-custom-middleware-in-react-redux-961570459ecb).
+   12.[Reudx-logger](https://github.com/evgenyrodionov/redux-logger)

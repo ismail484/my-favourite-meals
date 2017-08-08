@@ -29,8 +29,9 @@
 
 # Required Libraries and Dependencies
    - Create React App : run `npm install -g create-react-app`
-   - install redux `npm install redux`
-   - install react-redux `npm install react-redux`
+   - install redux library `npm install redux`
+   - install react-redux library `npm install react-redux`
+   - install react library `npm install react-icons`
   
 
 # How to Run Project 

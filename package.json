@@ -1,5 +1,9 @@
 {
-  "name": "meal-planner-steps",
+  "name": "react-readable-app",
+ "description": "ReactJS Redux CRUD",
+  "repository": "https://github.com/ismail484/my-favourite-meals.git",
+  "author": "Mohamed Ismail<http://mohamedcodesenjoyment.com/introduction/>",
+  "license": "MIT",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
